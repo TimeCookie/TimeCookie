@@ -32,8 +32,6 @@
 
 ---
 
-<img align="left" alt="TimeCookie's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TimeCookie&show_icons=true&hide_border=false&title_color=FFC700&icon_color=00F9EA&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=stars" />
-
 
 <!---
 TimeCookie/TimeCookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
