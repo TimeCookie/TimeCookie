@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning backend dev
 - ❤️‍🔥 Passionate in iOS development
 - 🧠 I’m looking to explore and aid people through technology
-- 🥅 2023 Goals: Learn UIKit and contribute to an open source project
+- 🥅 2023 Goals: Learn cross-platform mobile dev and contribute to an open source project
 - ⚡ Hobbies: I sing my heart out, and write poetries
 
 ### Connect with me:
