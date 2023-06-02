@@ -1,6 +1,6 @@
-# Howdy, I'm Cookie 🍪
+# Howdy, I'm Armin. 🍪
 
-## I'm a student, and a developer in development!
+### An astray mobile developer, and a developer in development!
 
 - 🌱 I’m currently learning backend dev
 - ❤️‍🔥 Passionate in iOS development
