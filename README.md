@@ -1,39 +1,12 @@
-# Howdy, I'm Armin. 🍪
+# 💫 Prologue
+Marvin is a developer in development, and an avid explorer of systems. He has embarked journeys into web development, native and cross-platform mobile, and now currently residing in the backend realm. He carries his arsenal under his belt, his strongest being Java Quarkus, C#.NET, and Dart Flutter. In his spare times, he enjoys writing anything beside code with the likes of poetries, and stories.
 
-### An astray mobile developer, and a developer in development!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marvinchristian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armin_v_r)
 
-- 🌱 I’m currently learning backend dev
-- ❤️‍🔥 Passionate in iOS development
-- 🧠 I’m looking to explore and aid people through technology
-- 🥅 2023 Goals: Learn cross-platform mobile dev and contribute to an open source project
-- ⚡ Hobbies: I sing my heart out, and write poetries
-
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/marvinchristian/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="padding-right:10px;" />](https://www.instagram.com/marvin_criss/)
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Xcode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
+# 💻 Marv's Belt
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Quarkus](https://img.shields.io/badge/quarkus-FFFFFF.svg?style=for-the-badge&logo=quarkus&logoColor=blue) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ---
+[![](https://visitcount.itsvg.in/api?id=TimeCookie&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!---
-TimeCookie/TimeCookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
