@@ -1,5 +1,5 @@
 # 💫 Prologue
-Marvin is a developer in development, and an avid explorer of systems. He has embarked journeys into web development, native and cross-platform mobile, and now currently residing in the backend realm. He carries his arsenal under his belt, his strongest being Java Quarkus, C#.NET, and Dart Flutter. In his spare times, he enjoys writing anything beside code with the likes of poetries, and stories.
+Marv is a developer in development, and an avid explorer of systems. He has embarked on journeys into web development, native and cross-platform mobile, and currently residing in the backend realm. He carries his arsenal under his belt, his strongest being Java Quarkus, C#.NET, and Dart Flutter. In his spare time, he enjoys writing anything besides code with the likes of poetries, and stories.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marvinchristian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armin_v_r)
 
